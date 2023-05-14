@@ -56,7 +56,7 @@ global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT-V1' 
 global.fgyt = 'https://youtube.com/@Asliguru'
 global.fgpyp = 'https://youtube.com/@Asliguru'
-global.fglog = 'https://i.imgur.com/QXbvnZE.jpg' 
+global.fglog = 'https://i.imgur.com/mTV37du.jpg' 
 global.dbase = 'mongodb+srv://guru:guru@cluster0.qpggl6x.mongodb.net/?retryWrites=true&w=majority' //ADD YOUR MONGODB BY CHANGIMG IT
 
 global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
